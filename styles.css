@@ -70,13 +70,12 @@ h2 {
   display: block;
   margin: auto;
   margin-top: 1rem;
-  background-color: #fef3c7;
-  border: 2px solid #a7f3d0;
-
+  background-color: #4fbba4;
+  border: 2px solid #25b974;
   padding: 10px 22px;
   text-align: center;
   text-decoration: none;
-
+  color: #ffffff;
   font-size: 16px;
   cursor: pointer;
 }
